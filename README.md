@@ -1,16 +1,33 @@
-## Hi there 👋
+# Santiago Pizarro
+**Desarrollador web**
 
-<!--
-**SantyPizarro/SantyPizarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Perfil Técnico
+Mi stack principal se centra en el ecosistema de Microsoft, aunque mantengo versatilidad en el desarrollo de interfaces modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend Core:** `.NET Core`, `C#`, `Entity Framework`, `SQL Server`.
+* **Frontend & Scripting:** `TypeScript`, `React`, `JavaScript`.
+
+---
+
+### 📂 Key Projects
+* **Backend Foraria App:** Colaboración en el desarrollo del núcleo lógico y arquitectura de servidor.
+* **Personal Portfolio:** Serie de proyectos desde la práctica a lo creativo.
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=000&text_color=444" height="150" />
+</p>
+
+---
+
+### 📩 Contact & Social
+* **LinkedIn:** [linkedin.com/in/santiago-pizarro](https://www.linkedin.com/in/santiago-pizarro-62584933a/)
+* **Portafolio:** [santypizarro](santypizarro.vercel.app)
+* **Email:** [pizarro.santy@gmail.com]
+* **Location:** [Buenos Aires]
+
+* ---
