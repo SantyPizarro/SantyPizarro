@@ -20,18 +20,9 @@ Mi stack principal se centra en el ecosistema de Microsoft, manteniendo versatil
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantyPizarro&show_icons=true&theme=neutral&hide_border=true&title_color=333&icon_color=666&text_color=444" height="150" />
-</p>
-
----
-
 ### 📩 Contacto y Enlaces
 * **Portafolio:** [santypizarro.vercel.app](https://santypizarro.vercel.app)
 * **LinkedIn:** [linkedin.com/in/santiago-pizarro](https://www.linkedin.com/in/santiago-pizarro-62584933a/)
 * **Email:** [pizarro.santy@gmail.com](mailto:pizarro.santy@gmail.com)
 * **Ubicación:** Buenos Aires, Argentina
 
----
-*Enfocado en cerrar la brecha entre el código complejo y la gestión eficiente de la tecnología.*
