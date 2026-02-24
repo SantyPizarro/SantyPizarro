@@ -22,7 +22,7 @@ Mi stack principal se centra en el ecosistema de Microsoft, manteniendo versatil
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=santypizarro&show_icons=true&theme=neutral&hide_border=true&title_color=333&icon_color=666&text_color=444" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantyPizarro&show_icons=true&theme=neutral&hide_border=true&title_color=333&icon_color=666&text_color=444" height="150" />
 </p>
 
 ---
